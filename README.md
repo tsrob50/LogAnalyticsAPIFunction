@@ -7,3 +7,4 @@ The function can be added to a script and used to send data directly to Log Anal
 
 
 More Information can be found here:
+http://www.ciraltos.com/azure-oms-log-analytics-step-by-step-data-collector-api/
